@@ -1,0 +1,6 @@
+== README
+
+This is an application written for the Turing School with the purpose of
+exploring external API's.
+
+The application uses RSpec for its test suite.
